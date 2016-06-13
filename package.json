@@ -29,6 +29,10 @@
   "devDependencies": {
     "body-parser": "^1.14.2",
     "chai": "^1.9.2",
+    "eslint": "^1.10.2",
+    "eslint-config-codingsans": "^1.1.0",
+    "eslint-plugin-mocha": "^1.1.0",
+    "eslint-plugin-smells": "^1.0.1",
     "express": "^4.13.4",
     "mocha": "^2.0.1",
     "moment": "^2.11.1"
